@@ -1,2 +1,2 @@
 ﻿# latihan-remote-Farrel
-Perubahan di github.
+Perubahan di github.com 
